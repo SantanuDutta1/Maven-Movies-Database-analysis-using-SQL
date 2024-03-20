@@ -41,3 +41,9 @@ Through this project, we aim to provide valuable insights into the Maven Movies 
 
 ## Project Link
 [GitHub Repository](https://github.com/SantanuDutta1/Maven-Movies-Database-analysis-using-SQL)
+
+## Authors
+
+- [@Santanudutta1](https://github.com/SantanuDutta1)
+
+Santanu Dutta - Data Analyst - Santanu Data - All work
