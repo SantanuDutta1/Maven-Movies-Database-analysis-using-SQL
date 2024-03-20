@@ -4,7 +4,7 @@
 This project delves into the Maven Movies database, exploring various aspects such as primary keys, foreign keys, customer details, rental information, film characteristics, and actor insights. The aim is to provide comprehensive data exploration and analysis for better understanding and decision-making.
  
  <p align="center">
-  <img width="600" height="350" src="Iris Photos and graph/sepal_length_plot.png">
+  <img width="600" height="350" src="What_is_SQL_Database.png">
 </p>
 
 ## Tasks Explored
