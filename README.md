@@ -40,7 +40,7 @@ This project delves into the Maven Movies database, exploring various aspects su
 Through this project, we aim to provide valuable insights into the Maven Movies database, facilitating better understanding and decision-making for various stakeholders. The analyses conducted cover a wide range of aspects, from customer demographics to film characteristics, offering a comprehensive view of the database.
 
 ## Project Link
-[GitHub Repository](https://github.com/SantanuDutta1/Maven-Movies-Database-analysis-using-SQL)
+[GitHub Repository](https://github.com/SantanuDutta1/Maven-Movies-Database-analysis-using-SQL/blob/main/SQL%20Assignment.sql)
 
 ## Authors
 
